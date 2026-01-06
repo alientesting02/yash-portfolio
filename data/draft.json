@@ -1,21 +1,131 @@
 {
-    "templateId": "glass",
-    "theme": "dark",
-    "updatedAt": 0,
-    "responsibilities": "",
-    "profile": {
-        "fullName": "",
-        "headline": "",
-        "location": "",
-        "email": "",
-        "phone": "",
-        "website": "",
-        "github": "",
-        "linkedin": "",
-        "summary": ""
+  "updatedAt": 1767723225424,
+  "theme": "dark",
+  "responsibilities": "Vice Chairperson (Tech)\nWeb Co-Committee Member",
+  "templateId": "timeline",
+  "profile": {
+    "fullName": "Yash Loriya",
+    "headline": "MERN | NEXT | AWS | FLUTTER",
+    "location": "Mumbai, India",
+    "email": "yashloriya0206@gmail.com",
+    "phone": "+91 8879029981",
+    "website": "yashloriya-portfolio.netlify.app",
+    "github": "github.com/YashLoriya02",
+    "linkedin": "linkedin.com/in/yash-loriya",
+    "summary": "I'm a Full Stack Developer with 2 years of experience, I contribute to both web and mobile development teams. My expertise spans frontend technologies including React, Next.js, Redux, and Flutter with BLoC architecture, alongside backend development using Node.js, MongoDB, Socket.io, and Python. I've solved complex real-world challenges involving WebSockets, real-time communication, deep linking, webhooks, and notification routing systems. Additionally, I have strong experience in cloud infrastructure and DevOps, working with AWS services (EC2, ECS, ECR, S3, CodePipeline) and implementing Infrastructure as Code using Terraform for deploying dockerized applications. Currently, I'm actively contributing to Healo, A Mental Health AI Chatbot."
+  },
+  "experience": [
+    {
+      "company": "Infiheal",
+      "role": "SDE Intern",
+      "start": "June 2024",
+      "end": "Present",
+      "location": "Remote / Mumbai",
+      "highlights": [
+        "Engineered scalable full-stack web applications using the MERN stack, ensuring high availability and performance.",
+        "Implemented containerization strategies using Docker and managed cloud deployments on AWS services (EC2, S3).",
+        "Spearheading the development of the ’HealoAI’ mobile application using Flutter and Bloc architecture, focusing on clean state management and responsive UI implementation."
+      ]
     },
-    "experience": [],
-    "projects": [],
-    "skills": [],
-    "education": []
+    {
+      "company": "Self Employed",
+      "role": "Full Stack Developer (Freelance)",
+      "start": "May 2024",
+      "end": "Sept 2024",
+      "location": "Remote",
+      "highlights": [
+        "Collaborated with a team of 5 developers to deliver 3 robust full-stack web applications for clients.",
+        "Optimized frontend performance and backend latency, ensuring seamless user experiences across devices.",
+        "Translated client requirements into technical specifications and delivered features within strict deadlines."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Summarizer-CLI",
+      "link": "",
+      "tech": [
+        "Node.js",
+        "LLMs",
+        "NPM"
+      ],
+      "description": "Developed an npm CLI tool utilizing Large Language Models (LLMs) to instantly summarize code files, functions, and custom prompts directly from the terminal.",
+      "highlights": [
+        "Integrated features such as automatic function extraction, syntax highlighting, and multiple export formats to streamline developer code reviews and documentation."
+      ]
+    },
+    {
+      "name": "Video Conferencing Platform",
+      "link": "",
+      "tech": [
+        "Next.js",
+        "Stream SDK",
+        "Clerk"
+      ],
+      "description": "Built a real-time video conferencing application featuring secure user authentication via Clerk and high-quality video transmission using Stream SDK.",
+      "highlights": [
+        "Designed an intuitive interface with meeting controls and room management, ensuring low-latency communication."
+      ]
+    },
+    {
+      "name": "Document Management System",
+      "link": "",
+      "tech": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "description": "Architected an efficient document management platform with categorized sidebars, powerful search functionality, and real-time collaboration tools.",
+      "highlights": [
+        "Implemented role-based security and seamless document updates to enhance team productivity."
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Python",
+    "C",
+    "SQL",
+    "HTML/CSS",
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "Flutter",
+    "React Native",
+    "Django",
+    "Flask",
+    "Tailwind CSS",
+    "AWS",
+    "Docker",
+    "Terraform",
+    "Git",
+    "GitHub",
+    "Linux",
+    "MongoDB",
+    "WebSocket",
+    "Figma",
+    "Web Scraping",
+    "ShadCN",
+    "Material UI",
+    "Dart"
+  ],
+  "education": [
+    {
+      "school": "Dwarkadas J. Sanghvi College of Engineering",
+      "degree": "B.Tech in Artificial Intelligence and Machine Learning",
+      "start": "2022",
+      "end": "2026",
+      "notes": "CGPA: 8.56"
+    },
+    {
+      "school": "Sheth G.H High School and Junior College",
+      "degree": "HSC (Science)",
+      "start": "2020",
+      "end": "2022",
+      "notes": "CGPA: 8.3"
+    }
+  ]
 }
